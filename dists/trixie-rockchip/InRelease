@@ -9,7 +9,7 @@ Version: 1.0
 Architectures: arm64
 Components: main non-free
 Description: BuzzTV software repository
-Date: Mon, 24 Mar 2025 22:03:44 +0000
+Date: Thu, 10 Apr 2025 15:14:11 +0000
 MD5Sum:
  f963b3533c90d30435ee58ce56590fab 11547304 main/binary-arm64/buzztv-dsw_1.0.14+17_arm64.deb
  776b98705d697329f77935c5c698edd4 1081438 main/binary-arm64/speedtest_1.2.0.84-1.ea6b6773cf_arm64.deb
@@ -26,11 +26,11 @@ MD5Sum:
  edb469e396649d135f905b70a9b0e2ef 201696 main/binary-arm64/libwayland-doc_1.23.0-1_all.deb
  7df464bccd0452210c57467f3cc9803c 4284 main/binary-arm64/libwayland-egl-backend-dev_1.23.0-1_arm64.deb
  b1ba1faa69913c6af18e0ebfa25954a5 68600 main/binary-arm64/libwlroots-dev_0.17.4-1_arm64.deb
- a14c5c239f3c8ff2cef68268f1d8d949 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
- 81c5601ad7a777db294501956f9f78b8 304380 main/binary-arm64/Packages
- b28325d058b7abe268ccacfc7732ac3c 70279 main/binary-arm64/Packages.gz
+ 2b588dd3df7bcc15d9781a8e35e21eae 304380 main/binary-arm64/Packages
+ b8204d019ff6074e485fbb5ecce9fba8 70277 main/binary-arm64/Packages.gz
  bdc8145abe4154f83aaec0f0e9a2c5be 152688 main/binary-arm64/avizo-dbgsym_1.2.1-1_arm64.deb
  164e5ef770e08f4218159c3761fb9a0f 51080 main/binary-arm64/avizo_1.2.1-1_arm64.deb
+ a14c5c239f3c8ff2cef68268f1d8d949 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
  b63c51e63dbf0fa7b7d5cbd6f6e623b2 91068 main/binary-arm64/dvb-tools-dbgsym_1.28.1-1_arm64.deb
  fd0043a814be4ca8ce00985340b832ff 120608 main/binary-arm64/dvb-tools_1.28.1-1_arm64.deb
  475995825cd7a7fb6c21af06615c77f1 846200 main/binary-arm64/ffmpeg-dbgsym_7.0.2-3_arm64.deb
@@ -212,7 +212,7 @@ MD5Sum:
  90ccef0116ce071d65bf2e32029479c0 2398292 main/binary-arm64/xserver-xorg-legacy_21.1.13-2_arm64.deb
  909fef3c9cd15312fae98429179238c7 3275920 main/binary-arm64/xvfb-dbgsym_21.1.13-2_arm64.deb
  1b45ae3c7ff421aad258b2f1d262b7cf 3105480 main/binary-arm64/xvfb_21.1.13-2_arm64.deb
- 6f06f24b44f66a17e4a4602a9ccf4b8a 34513576 main/binary-arm64/buzztv_1.0.132+152_arm64.deb
+ df9288221da6a5ab8d5f510edc1cc093 34646940 main/binary-arm64/buzztv_1.0.141+161_arm64.deb
  fbb0a9a3a0bc798b02b5dbefadd43adf 62924 non-free/binary-arm64/Packages
  2716c04ef0e6b30407d0f5e921e0194e 14911 non-free/binary-arm64/Packages.gz
  1107c31a1b6a4021c9e1756b95449a54 10920 non-free/binary-arm64/libmali-bifrost-g31-g13p0-gbm-dbgsym_1.9-1_arm64.deb
@@ -1169,8 +1169,8 @@ MD5Sum:
  1280078272ff7ea383497eea4f64fa15 520704 base/binary-arm64/xz-utils_5.6.2-2_arm64.deb
  8048b4afea70ec3210428e37d66b39e3 915704 base/binary-arm64/zlib1g-dev_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
  84ef81bf3f678cfea89584f81af8554d 84008 base/binary-arm64/zlib1g_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
- f6e4aa250a17fc85ae332e9041368dff 377090 InRelease
- 8ad7eb0f279541c6aab37e19d31519b0 854 Release.gpg
+ 5ab2961539cf452b0fcc81f89b491de7 377090 InRelease
+ d31f0abb00087ea371c4f6183bb60fe4 854 Release.gpg
 SHA1:
  c35c3960b916c2314c96848168198e421cc6abb3 11547304 main/binary-arm64/buzztv-dsw_1.0.14+17_arm64.deb
  7e1f1cf18ee9da51309b504985306af1b2137cd9 1081438 main/binary-arm64/speedtest_1.2.0.84-1.ea6b6773cf_arm64.deb
@@ -1187,11 +1187,11 @@ SHA1:
  4fd809799663f5034d153067da7bc09206795cf6 201696 main/binary-arm64/libwayland-doc_1.23.0-1_all.deb
  25800ff1d749facd6904cbf2990a68901d7f7f86 4284 main/binary-arm64/libwayland-egl-backend-dev_1.23.0-1_arm64.deb
  4a7bf6a8b182d40dca2ab8921b68995d9cd875ee 68600 main/binary-arm64/libwlroots-dev_0.17.4-1_arm64.deb
- 3fc59128779301d1221225d580a17f22b3efa8c9 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
- 40077c8c2993ac570238613bf7f29e8b6678918d 304380 main/binary-arm64/Packages
- f2ec2c4444384b1c6ad9e9a70a62d9ddda77abdc 70279 main/binary-arm64/Packages.gz
+ 14c1e6fdef2af6b0de80bf9a4e3b35eb840b69c7 304380 main/binary-arm64/Packages
+ 84407d9741459bfb16749ad0ccd8abf6e7e497a8 70277 main/binary-arm64/Packages.gz
  ca20e93261692d16773ce447eaea623f7e4fe02a 152688 main/binary-arm64/avizo-dbgsym_1.2.1-1_arm64.deb
  8f71508dbadad6b7dfab97e5f812f96d8a0338ee 51080 main/binary-arm64/avizo_1.2.1-1_arm64.deb
+ 3fc59128779301d1221225d580a17f22b3efa8c9 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
  648bdf461ef867ce0b8d8c4e700534d244e21479 91068 main/binary-arm64/dvb-tools-dbgsym_1.28.1-1_arm64.deb
  c5b97a738deddfb1477c3c0ab9c679596331bbb8 120608 main/binary-arm64/dvb-tools_1.28.1-1_arm64.deb
  773ae57a47ccb026868496352b4c9c6c5f082aa9 846200 main/binary-arm64/ffmpeg-dbgsym_7.0.2-3_arm64.deb
@@ -1373,7 +1373,7 @@ SHA1:
  f63ee518815a911466400aa8dfecff9501c9724b 2398292 main/binary-arm64/xserver-xorg-legacy_21.1.13-2_arm64.deb
  1aebc31b3a2aa80abbc4574aded9c82f7a04504d 3275920 main/binary-arm64/xvfb-dbgsym_21.1.13-2_arm64.deb
  24c82f85ee0c1bf62f816a798474e27b2df6f457 3105480 main/binary-arm64/xvfb_21.1.13-2_arm64.deb
- 65dbf0bb129f57b8b43f480ebfdeeb9b8e22bf74 34513576 main/binary-arm64/buzztv_1.0.132+152_arm64.deb
+ 07756bb958123d96f4f681d42f90bc215de2e90f 34646940 main/binary-arm64/buzztv_1.0.141+161_arm64.deb
  97c8fead2c26fdec3dcadf2f08c28d1e70720230 62924 non-free/binary-arm64/Packages
  e76ef8a8a849fb6f59db6bfdd9a8e2d37bb54889 14911 non-free/binary-arm64/Packages.gz
  624b57436b6038926fcd3d43c5d29be4f282ca13 10920 non-free/binary-arm64/libmali-bifrost-g31-g13p0-gbm-dbgsym_1.9-1_arm64.deb
@@ -2330,8 +2330,8 @@ SHA1:
  d617c51e20c0ac8754830121fba49dab972b0b9e 520704 base/binary-arm64/xz-utils_5.6.2-2_arm64.deb
  7be47b180397f3a1b0fa9ad20e90dd3ea1e7a241 915704 base/binary-arm64/zlib1g-dev_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
  a05e8a79b2cf8a41629fceb6b8688549a7ea2407 84008 base/binary-arm64/zlib1g_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
- 94776c4b24fce78e06ee9253fc79e8ba1afdef5f 377090 InRelease
- f3ce4a0b978705ca8c5eee8832d22ddeeb728bf4 854 Release.gpg
+ c98d5a43fab6d7422ecc76001b910b64679dcf5a 377090 InRelease
+ ccbb2b1f431928406b3f77a312059b98e99e53cd 854 Release.gpg
 SHA256:
  6c0d9cf6b21bcc18672e55e2249c59bba6fad564f9f9cfe67af91d2b2c4f8104 11547304 main/binary-arm64/buzztv-dsw_1.0.14+17_arm64.deb
  98e7de9db3bf181d08bc67e647bcfc71349c8014e387289c08e54e5c55d82f37 1081438 main/binary-arm64/speedtest_1.2.0.84-1.ea6b6773cf_arm64.deb
@@ -2348,11 +2348,11 @@ SHA256:
  bc604e0e1ecbfd68c387148652c41e8e63838a9b9c5508b0a419bd94cf575c5e 201696 main/binary-arm64/libwayland-doc_1.23.0-1_all.deb
  5f8eb68107ce87945a82f6cec3480eef6cfb8689c9a36c574a4bbea3100e2e8a 4284 main/binary-arm64/libwayland-egl-backend-dev_1.23.0-1_arm64.deb
  a717e27729385f4e323cc641e1ea2a2785e24bcc0503f642ac40c6395bffa933 68600 main/binary-arm64/libwlroots-dev_0.17.4-1_arm64.deb
- 08edfa853ceac6588f02796419c0178f1a4ddfe17b211fd1a411a91b5d736628 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
- fc54ca473425a3f41591af4965d10449cf46cab07d5de9cecd4298e6c2bb48f2 304380 main/binary-arm64/Packages
- 1eace0f2b123a017958613f409592270bc773dfd4f9eea04519c4e048a2baf27 70279 main/binary-arm64/Packages.gz
+ 394c06339b059fcc7b7704985e0df0a74f6e33ecfa55a575e0fddfd4de3ce62c 304380 main/binary-arm64/Packages
+ df7662ff3145f4e4e929ff6c0c9b4e585669089fc68a2b4a503b8a6a6967c078 70277 main/binary-arm64/Packages.gz
  4845000cef51a8340c1e3c6c6ecf0c80daca4f3d60c72742d7cc842bdedb58f0 152688 main/binary-arm64/avizo-dbgsym_1.2.1-1_arm64.deb
  6625bfdb804465b5dcecd9731f2b4f7131bbe1574426c5621dbe824c99dfd472 51080 main/binary-arm64/avizo_1.2.1-1_arm64.deb
+ 08edfa853ceac6588f02796419c0178f1a4ddfe17b211fd1a411a91b5d736628 4268 main/binary-arm64/buzztv-ota-tools_1.0.11-1_all.deb
  de0d080ad47ada7ab58aaf681c4c60e2541ab014662edd43f48e21988a1ff1d2 91068 main/binary-arm64/dvb-tools-dbgsym_1.28.1-1_arm64.deb
  1ac6db8882b8703e417c2a9aba1c7e75fe282f8fe8438464f22906cde5874018 120608 main/binary-arm64/dvb-tools_1.28.1-1_arm64.deb
  ef35a50a2363e859d981befcbd6d4babcb80958a25ae5e03f70112c25c4c2965 846200 main/binary-arm64/ffmpeg-dbgsym_7.0.2-3_arm64.deb
@@ -2534,7 +2534,7 @@ SHA256:
  249b92df7fcb0888e94620e5ed616b6342f633ca04d5f1af438e099a45c48dec 2398292 main/binary-arm64/xserver-xorg-legacy_21.1.13-2_arm64.deb
  c08280bae25e30f7b532f44b62e7bd12d881becb2ce0bff3082dbc9ee8f7f850 3275920 main/binary-arm64/xvfb-dbgsym_21.1.13-2_arm64.deb
  b04c05712c8f8e3346d4d3a9daba604885f909fadd6b05f0c69076f8847788f3 3105480 main/binary-arm64/xvfb_21.1.13-2_arm64.deb
- fc2bb10c43f6c07f01a720fdfb9a32c6d7cca2d39b720017d6425cbd19b8c7e7 34513576 main/binary-arm64/buzztv_1.0.132+152_arm64.deb
+ e2518bb7e5e1fa78c7d302e3177230c92cae470f0c09d8fb4769516f828e3e5a 34646940 main/binary-arm64/buzztv_1.0.141+161_arm64.deb
  8d470b8eee886de5c20afa8a0a19c7a73fbf7485dc886187f460e6916b072e47 62924 non-free/binary-arm64/Packages
  c4a91d92c7170d3dd17b05b36327f45be5bedf71fb5cefcc43cf708756e9f849 14911 non-free/binary-arm64/Packages.gz
  2270b38cd3a69b217cde9e6b8ad90adc6e6955e29e993bf7d4c07db339053a31 10920 non-free/binary-arm64/libmali-bifrost-g31-g13p0-gbm-dbgsym_1.9-1_arm64.deb
@@ -3491,22 +3491,22 @@ SHA256:
  24c310b274f0fda7a80a1a0f74688acc1845b19c7c2d4b6307629e964149116f 520704 base/binary-arm64/xz-utils_5.6.2-2_arm64.deb
  368bd8d9a2f7add9f1e07f783290a714092af7d0f6c4ef526045744e99c750fc 915704 base/binary-arm64/zlib1g-dev_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
  2ad133b3d7a0b0d8d48efff5187828081d6a50d5ab3cd42924e1e992ea83cab8 84008 base/binary-arm64/zlib1g_1%3a1.3.dfsg+really1.3.1-1_arm64.deb
- 49f5fc4bf75f4ef1371c9b3aef955c8b4c2e488192e27ba301a8eed110e5d09c 377090 InRelease
- 759b3fd21db71b54f81365e2c00bfde47fd3676e3f20baef89c16526725faffd 854 Release.gpg
+ 6ec348e76cfcdae575be3c99aea0df6951f012935cead907292e5f0882c7dfcf 377090 InRelease
+ c38b7a6c3d7f4579572509c37da3f666a987324465568d847b679c11ab71405a 854 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQJCBAEBCgAsFiEEJitBrLYms9FSHqyrBqlmJTAct/UFAmfh1tEOHGNzQGJ1enp0
-di5jb20ACgkQBqlmJTAct/W45w/+Od6Y0At0q6uO9KmDniASx2ilemO/PtnUbVsx
-Wzoz6RwKdIpLbFwM+fuO/PtKp4ELChwCE1H57Qk8zf6io6A7xykvlZUeu5qHveT0
-iFYSeLIj0c5VKCkLhEL4P0/KlZ4yT65MqN6mPUfS1cLw16bppNvBEnFhlsu0JYT9
-zchlDjFsY7E3ojR6ohsXujtaSS3yklHfhJtNpbMc9cH6ydJc2JDg1HPJHN6T4IG9
-tNjOtthQTu3asJXwOP6wLhUGX/JglLy9OWByEBLQCRiefSpjmIOiSqifiK7q/mbD
-PVZeZcNc/YCD3A//aAelh/sLcxaHQeqpaXHagiH8u7yeapx5Zer8zx4grasnQlVN
-Cup59qxfizTEQdipILhjuTsguG92lLpRE3pyUK3KH0neNqtT0auPNSAhvMShkilQ
-ieeG8kvlfj3TeYGVc8ZcJ+xNT1qN573scLAsosLtfc7ORrgd8Ia2L93TIQH82tOG
-L5j4tqmAFvURe71w+inpOodOY9UDsXz4MRgqTqCXEpADxkDnVAZXQdn5sVc0mfzD
-rL3vayQBtcsnpXjXWCDmads1iE7C1KLiLszR7gTcl+HGoIxXSRxd81jw3s7eJ6FR
-+cEScyAPRvSIuolAWymoihh2OazUdvKcIDzbta9koggb0Ou0NHBP8/JXQu7YdsMq
-QF5UQpM=
-=kr01
+iQJCBAEBCgAsFiEEJitBrLYms9FSHqyrBqlmJTAct/UFAmf34FcOHGNzQGJ1enp0
+di5jb20ACgkQBqlmJTAct/XSbg//ZjPI20RJ57td3nPYNrGjL0KH7n6uTPyuTmz2
+0U6v7IUu3a1NOI1oFedHgnQ3+7dUgOPsnHbdQzT62gULKih/7H2RrdJ4erZPFGFc
+3v0ELzf8m9x/DTuOE5K+Cp6IxeD+tuoiHToIlsewuDjpM9gTkDmwfxOJzV+lN0BB
+cRXHTbCdfO+NwVBh9jI0M9B26PXz/2mYDT+13m4BtTPSnRZu2SGT/l1FOCfR6N+0
+OrCoPUm1vvLoW0Tgsf9h6BE33EDrazHOQMvBTGhoCi+e2Nho/0a3E6zpJPEvRsex
+6Ke5iGPJnBk8MgCZMkDuKoPSOpfJYW/htsfu0ajpoRodAJabxhmTkI11dhjoc0O5
+vOonbpf46O/dTD84bgEK2H92plQ/1RZF0aPd3VlwPC2vp8QXaKSWsfDp7oqMlW9a
+pqThE5KnfYMmNFJM0LGKew8qFnHUa7AVHm29soWqyVq5SZcantJWwp4s0jf00WiF
+XzNIGAYQSdisj/k27xRQ2fHLODQFPdQoTfMCNUyls7sbODhzFdJiTneFi66NkrUI
+WmmjSzIDyQwdjyh9ud0dYgZPStiaQfVgOqT6eHz6kLeCbFnllrRb9f//CODFqU/P
+pH0VXKqTHiwn3IXqEONKiceTm6pXhRl+D8ibgzG0D8TWqpJ3C84fgIANPegQrhaK
+y3076Og=
+=dQTD
 -----END PGP SIGNATURE-----
