@@ -56,16 +56,16 @@ Description: debug symbols for avizo
 Build-Ids: 249ed2659040872c0c498cd72cf050153eada08e aa4b951e189753496c73ee8a4aa6c734835bdb03
 
 Package: buzztv
-Version: 1.0.143+163
+Version: 1.0.144+164
 Architecture: arm64
 Essential: no
 Maintainer: mvas
 Depends: gir1.2-gst-plugins-bad-1.0,gstreamer1.0-plugins-bad,gstreamer1.0-plugins-bad-apps,libgstreamer-plugins-bad1.0-0,gstreamer1.0-pulseaudio,gstreamer1.0-plugins-base,udisks2,network-manager-openvpn
-Filename: dists/trixie-rockchip/main/binary-arm64/buzztv_1.0.143+163_arm64.deb
-Size: 34647360
-MD5sum: c8fa8d8f02e2b974896561790cfee26d
-SHA1: d4513b1875bd3543febcd3eb49261f040d5edde7
-SHA256: c465b03af1064056e46228ab56ac0cdf90fdc9a746e3b32906df145b6e6ae784
+Filename: dists/trixie-rockchip/main/binary-arm64/buzztv_1.0.144+164_arm64.deb
+Size: 34664312
+MD5sum: 5f42134ab2866ffc48069f48ad4a8b68
+SHA1: 4ca82420a75ee96c5d49a401096c3fa70b82ae7d
+SHA256: 715050a26155cf61090ac6eea93583d6efefe243220ad39f8990c697e8b4b547
 Priority: optional
 Description: BuzzTV IPTV player
 
